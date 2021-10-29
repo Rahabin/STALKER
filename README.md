@@ -13,4 +13,4 @@ the patches either, so any bug reports are also appreciated.
 
 Alas, hope those who may come into contact with this repo will find it somwhat useful.
 
-Good afternoo, good evening and good night, and most of all, good hunting, Stalkers!
+Good afternoon, good evening and good night, and most of all, good hunting, Stalkers!
